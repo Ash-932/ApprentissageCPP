@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    Contenant unContenant(5,10,2);
+
     return 0;
 }

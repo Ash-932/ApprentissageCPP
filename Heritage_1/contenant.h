@@ -4,7 +4,11 @@
 class Contenant
 {
 public:
-    Contenant();
+    Contenant(const int _largeur, const int _hauteur, const int _profondeur);
+    int CalculerVolume();
+private:
+    int largeur;
+    int hauteur;
+    int profondeur;
 };
-
 #endif // CONTENANT_H
