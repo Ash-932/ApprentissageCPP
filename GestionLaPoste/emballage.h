@@ -12,6 +12,9 @@ public:
     Emballage(const string &_format, const int _resistance, const int _longueur, const int _largeur, const int _hauteur = 0);
     ~Emballage();
     void Visualiser();
+    double const CalculerVolume() const;
+    bool operator <(const Emballage &_autre);
+    bool operator ==(const Emballage &_autre);
 
 private:
     string format;

@@ -1,0 +1,7 @@
+<map id="ZoneArrosage" name="ZoneArrosage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,213,198,299"/>
+<area shape="rect" id="Node000002" href="$classVannes.html" title=" " alt="" coords="5,5,99,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,150,109,197,105,199,83,152"/>
+<area shape="rect" id="Node000003" href="$classCapteurHumidite.html" title=" " alt="" coords="123,35,309,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,122,172,190,167,200,162,198,167,188,197,120"/>
+</map>
